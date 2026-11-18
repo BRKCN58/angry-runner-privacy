@@ -1,0 +1,18 @@
+# Angry Runner
+
+> Angry Runner is a free Android math crowd runner game by LapaGames. The player picks the gate with the better math operation (+, -, ×, ÷ and parenthesized expressions) to grow an army of runners, dodges traps, and defeats the enemy army at the end of each level.
+
+- Google Play: https://play.google.com/store/apps/details?id=com.LapaGames.AngyRunner
+- Package name: com.LapaGames.AngyRunner
+- Developer: LapaGames
+- Platform: Android, free with mostly optional rewarded ads
+- Levels: 100. Level 1 is the shortest and easiest; every level is longer and harder. Level 100 is the hardest final level.
+- Math: addition, subtraction, multiplication, division and parenthesized expressions on the gates; quick mental math while running.
+- Traps: spiked boxes, saws, sledgehammers, wind propellers, cannonballs.
+- Features: seasonal online leaderboard with rewards for the top player, character customization (hats, equipment, colors), offline play, one-finger controls.
+- Languages: Turkish, English, Russian, Portuguese, Chinese, Spanish, German, Azerbaijani, French, Italian, Hindi.
+- Good for: players who like casual runner games, crowd and army games, and brain or mental math training games.
+
+## Pages
+- [About the game (TR/EN)](https://brkcn58.github.io/angry-runner-privacy/oyun.html)
+- [Privacy policy (TR/EN)](https://brkcn58.github.io/angry-runner-privacy/)
